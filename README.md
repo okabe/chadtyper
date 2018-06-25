@@ -1,5 +1,5 @@
 # chadtyper
 le chad typer
 * preloads all words
-* types 340+ wpm
-* doesnt even blink
+* types all the wpm
+* gets high score everytime
